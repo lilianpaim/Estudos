@@ -1,2 +1,2 @@
 # Estudos
-Repositório criado para anotações dos estudos do bootcamp da DIO.
+Repositório criado para anotações e projetos iniciais dos estudos do bootcamp da DIO.
